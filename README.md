@@ -4,3 +4,9 @@
 
  Тест-кейс 
 https://app.qase.io/project/G9?suite=94&tab=&previewMode=side
+
+Test run. Testing documentation:
+Registration and Authorization
+Product Catalog
+
+Bug Report. Testing documentation
